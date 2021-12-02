@@ -1,0 +1,47 @@
+body {
+background-color:LightSkyBlue;
+font-family: 'Dancing Script', cursive;
+text-align: center;
+
+}
+
+
+h1{
+  color: black;
+  border: 6px dashed black;
+  text-align: center;
+  }
+h3{
+ color: black;
+  border: 6px dotted black;
+  text-align: center;
+  font-size: 50px;
+
+}
+
+#Name {
+    font-size:60px;
+    color: Aqua;
+    font-style: italic;
+  cursive;
+  font-family: 'Great Vibes', cursive;}
+
+
+  # what I love {
+  font-size:60px
+  color:Red;
+  font-style: italic;
+  cursive;
+    font-famaily: 'Great Vibes', cursive;
+borders: 6px dotted black;
+}
+
+button{
+  background-color:Aqua;
+  color:Black;
+  font-size:20px;
+  border-style:solid;
+  border-width:6px;
+  border-color:Black;
+  border-raduis:20px
+}

@@ -1,0 +1,26 @@
+body{background-color: Plum;
+  text-align:center;
+}
+h1{ font-size:45px;
+text-align:center;
+color:MediumOrchid;
+border:14px solid MediumOrchid;
+}
+p{font-size:40px;
+color:MediumOrchid;
+text-align:center;}
+
+
+img {display:block;
+margin-left:auto;
+margin-right:auto;
+width:30%;
+border:20px solid MediumOrchid;}
+
+
+
+
+button{border-width:6px;
+border-color:MediumOrchid;
+font-size:30px;
+color:mediumorchid;}

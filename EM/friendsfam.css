@@ -1,0 +1,26 @@
+button {
+  background-color:black;
+  color:white;
+  font-size:30px;
+  border-stlye:solid;
+  border-width:9px;
+  border-color:red;
+  border-raduis:30px;
+  font-family: 'Rampart One', cursive;
+}
+
+body{
+  background-color: darkblue;
+   font-family: 'Rampart One', cursive;
+   text-align:center;
+
+}
+
+
+h1{
+  font-size:50px:
+  color:darkgrey:
+  color:black;
+  border:6px double;
+  text-align:center;
+}

@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+  text-align: center;
+
+}
+
+h1 {
+  color: gray;
+  text-align: center;
+}
+
+h1 {
+  font-style: Concert One;
+  font-family: 'Concert One', cursive;
+  font-size: 80px;
+
+}
+button {
+  background-color:MediumSpringGreen ;
+  color: blue;
+  border: 2px solid #4CAF50; /* Green */
+font-size:50px
+}

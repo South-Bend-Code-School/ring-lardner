@@ -1,0 +1,30 @@
+body {
+  font-size: 36px;
+  background-color: black;
+  font-style: Praise;
+    font-family: 'Praise', cursive;
+    text-align: center;
+
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+
+
+  color: white ;
+}
+
+button {
+  background-color: blue ;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

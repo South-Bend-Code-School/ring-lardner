@@ -1,0 +1,23 @@
+body {
+  background-color: blue;
+  font-size:32px;
+  color:green;
+  text-align: center;
+
+}
+
+h1 {
+
+  text-align: center;
+}
+
+button {
+  background-color:cadetblue ;
+  border: none;
+  color: DarkOrange;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

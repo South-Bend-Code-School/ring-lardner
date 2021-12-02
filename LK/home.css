@@ -1,0 +1,25 @@
+body {
+  background-color: maroon;
+  text-align: center;
+
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+button {
+ color: white;
+  background-color: black;
+
+}
+
+img {
+  text-align: caenter;
+}

@@ -1,0 +1,24 @@
+body{
+background-color:cadetblue;
+text-align:center;
+}
+
+h1{ font-size:45px;
+  text-align:center;
+  color:darkcyan;
+  border:14px solid darkcyan;
+}
+
+p{ font-size:40px;
+  color:darkcyan;}
+
+img {display:block;
+margin-left:auto;
+margin-right:auto;
+width: 40%;
+border:20px solid darkcyan;}
+
+button{border-width:6px;
+border-color:darkcyan;
+font-size:30px;
+color:darkcyan;}

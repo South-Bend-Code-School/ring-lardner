@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  border: 6px dotted Aqua;
+  font-family: 'Recursive', sans-serif;
+}
+img {
+  border-radius: 8px;
+}
+button{
+  background-color:white;
+    color:
+    border-style:dashed;
+    border-width:10px;
+    border-color:Cyan;
+    border-radius:10px;
+    font-family: 'Recursive', sans-serif;
+}
+
+body{
+  font-family: 'Recursive', sans-serif;
+  text-align: center;
+}

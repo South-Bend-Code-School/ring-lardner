@@ -1,0 +1,25 @@
+body{background-color: Orange;
+  text-align:center;
+}
+h1{ font-size:45px;
+text-align:center;
+color:Coral;
+border:14px solid coral;
+}
+p{font-size:40px;
+color:Coral}
+
+
+img {display:block;
+margin-left:auto;
+margin-right:auto;
+width: 30%;
+border:20px solid Coral;}
+
+
+
+
+button{border-width:6px;
+border-color:Coral;
+font-size:30px;
+color:coral;}

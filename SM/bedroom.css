@@ -1,0 +1,25 @@
+body{background-color: Salmon;
+  text-align:center;
+}
+h1{ font-size:45px;
+text-align:center;
+color:FireBrick;
+border:14px solid indianred;
+}
+p{font-size:40px;
+color:FireBrick}
+
+
+img {display:block;
+margin-left:auto;
+margin-right:auto;
+width:30%;
+border:20px solid indianred;}
+
+
+
+
+button{border-width:6px;
+border-color:FireBrick;
+font-size:30px;
+color:firebrick;

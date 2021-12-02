@@ -1,0 +1,30 @@
+body {background-color:
+ lightskyblue;
+ text-align:center;
+}
+
+h1{font-size:45px;
+text-align:center;
+color:dodgerblue;
+border:14px solid darkcyan}
+
+p{font-size:40px;
+color:dodgerblue;}
+
+
+
+  h1{font-size:45px;
+text-align:center;
+color:dodgerblue;
+border:14px solid dodgerblue;}
+
+  img {display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:30%;
+  border:20px solid dodgerblue;}
+
+  button{
+  border-width:10px;
+  border-color:darkcyan;
+  font-size:30px;

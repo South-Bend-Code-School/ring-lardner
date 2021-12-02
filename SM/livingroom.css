@@ -1,0 +1,25 @@
+body {background-color:
+limegreen;
+text-align:center;
+}
+
+h1{font-size:45px;
+text-align:center;
+color:forestgreen;
+border:14px solid forestgreen }
+
+p{font-size:40px;
+color:forestgreen;}
+
+img{display:block;
+margin-left:auto;
+margin-right:auto;
+width:35%;
+border:20px solid forestgreen;}
+
+button{
+ border-width:6px;
+ border-color:forestgreen;
+ font-size:30px;
+ color:forestgreen;
+}
